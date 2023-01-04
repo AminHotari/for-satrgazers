@@ -5,7 +5,9 @@
 * [Abstract](#abstract)
 * [Home Page](#home-page)
 * [Login and Registration](#login-and-registration)
+* [User Form Page](#user-form-page)
 * [Dashboard Page](#dashboard-page)
+* [Explore Page](#explore-page)
 * [Event Form Page](#event-form-page)
 * [Nasa Api Page](#nasa-api-page)
 * [Chat Page](#chat-page)
@@ -37,15 +39,25 @@
     *	User is only able to login with a valid password and email.
     *	User should be saved in session when registered successfully.
   ### Login/Register Preview
+## User Form Page:
+* Features:
+     *  User Form Page have a navigation bar contains a route to (Home), (Event Page), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
+     *  User Form Page contains .
+   ### User Form Page Preview:
 ## Dashboard Page:
 * Features:
      *  Dashboard Page have a navigation bar contains a route to (Home), (Event Page), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
-     *  Dashboard Page contains summary about our website.
+     *  Dashboard Page contains .
    ### Dashboard Page Preview:
+## Explore Page:
+* Features:
+     *  Explore Page have a navigation bar contains a route to (Home), (Event Page), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
+     *  Explore Page contains all available events .
+   ### Explore Page Preview:
 ## Event Form Page:
 * Features:
      *  Event Form Page have a navigation bar contains a route to (Home), (Event Page), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
-     *  Event Form Page contains summary about our website.
+     *  Event Form Page contains .
    ### Event Form Page Preview:
 ## Nasa Api Page:
 * Features:
