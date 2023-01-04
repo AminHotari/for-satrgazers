@@ -5,8 +5,13 @@
 * [Abstract](#abstract)
 * [Home Page](#home-page)
 * [Login and Registration](#login-and-registration)
-* [Nasa Api Page](#nasa-Api-page)
+* [Dashboard Page](#dashboard-page)
+* [Event Form Page](#event-form-page)
+* [Nasa Api Page](#nasa-api-page)
 * [Chat Page](#chat-page)
+* [About Us Page](#about-us-page)
+
+
 
 ## Run Localy
 
@@ -32,6 +37,16 @@
     *	User is only able to login with a valid password and email.
     *	User should be saved in session when registered successfully.
   ### Login/Register Preview
+## Dashboard Page:
+* Features:
+     *  Dashboard Page have a navigation bar contains a route to (Home), (Event Page), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
+     *  Dashboard Page contains summary about our website.
+   ### Dashboard Page Preview:
+## Event Form Page:
+* Features:
+     *  Event Form Page have a navigation bar contains a route to (Home), (Event Page), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
+     *  Event Form Page contains summary about our website.
+   ### Event Form Page Preview:
 ## Nasa Api Page:
 * Features:
      *  Nasa Api Page have a navigation bar contains a route to (Home), (Event Page), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
@@ -41,12 +56,15 @@
    ![Nasa Api](https://user-images.githubusercontent.com/110983334/210651619-0b621ef9-752f-4b15-a794-027584120245.gif)
 ## Chat Page:
 * Features:
-     *  Nasa Api Page have a navigation bar contains a route to (Home), (Event Page), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
-     *  Nasa Api Page contains search for any data in the past will show you some thing on that date about space.
+     *  Chat Page have a navigation bar contains a route to (Home), (Event Page), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
+     *  Chat Page contains a chat feature between all users.
    ### Chat Page Preview:
+   ![Chat Page](https://user-images.githubusercontent.com/110983334/210652331-ea658abd-644b-4fb1-8be3-aa79d81a81ad.png)
 ## About Us Page:
 * Features:
-     *  Nasa Api Page have a navigation bar contains a route to (Home), (Event Page), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
-     *  Nasa Api Page contains search for any data in the past will show you some thing on that date about space.
+     *  About Us Page have a navigation bar contains a route to (Home), (Event Page), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
+     *  About Us Page contains summary about our website.
    ### About Us Page Preview:
+   ![About Us](https://user-images.githubusercontent.com/110983334/210652344-aa4a9f10-5ead-467d-9082-a3ec3a2a5df8.png)
+
 
