@@ -35,6 +35,18 @@
 ## Nasa Api Page:
 * Features:
      *  Nasa Api Page have a navigation bar contains a route to (Home), (Event Page), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
-     *  Nasa Api Page contains.
+     *  Nasa Api Page contains search for any data in the past will show you some thing on that date about space.
    ### Nasa Api Page Preview:
+   ![Nasa Api](https://user-images.githubusercontent.com/110983334/210651604-4b11a3b7-41fc-46f6-84a3-0beab61cc529.png)
+   ![Nasa Api](https://user-images.githubusercontent.com/110983334/210651619-0b621ef9-752f-4b15-a794-027584120245.gif)
+## Chat Page:
+* Features:
+     *  Nasa Api Page have a navigation bar contains a route to (Home), (Event Page), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
+     *  Nasa Api Page contains search for any data in the past will show you some thing on that date about space.
+   ### Chat Page Preview:
+## About Us Page:
+* Features:
+     *  Nasa Api Page have a navigation bar contains a route to (Home), (Event Page), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
+     *  Nasa Api Page contains search for any data in the past will show you some thing on that date about space.
+   ### About Us Page Preview:
 
