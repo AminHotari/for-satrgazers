@@ -84,7 +84,7 @@
 
 ## Technologies Used:
    ![mernjpg](https://user-images.githubusercontent.com/110983334/210658109-4acdd6c5-60ba-479c-85ae-79fe9042070d.jpg)
-- MongoDB.      - Express.      - React.js.     - Node.js
+- MongoDB.      - Express      - React.js     - Node.js
 
 ## Done by:
 - Jamal Harb.
