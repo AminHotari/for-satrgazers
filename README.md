@@ -83,9 +83,9 @@
    ![About Us](https://user-images.githubusercontent.com/110983334/210652344-aa4a9f10-5ead-467d-9082-a3ec3a2a5df8.png)
 
 ## Technologies Used:
-- React.js.
-- MongoDB.
-- Express.
+   ![mernjpg](https://user-images.githubusercontent.com/110983334/210658109-4acdd6c5-60ba-479c-85ae-79fe9042070d.jpg)
+- MongoDB.      - Express.      - React.js.     - Node.js
+
 ## Done by:
 - Jamal Harb.
 - Haneen Saymeh.
