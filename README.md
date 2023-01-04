@@ -12,6 +12,9 @@
 * [Nasa Api Page](#nasa-api-page)
 * [Chat Page](#chat-page)
 * [About Us Page](#about-us-page)
+* [Technologies Used](#technologies-used)
+* [Done by](#done-by)
+* [Superviser](#superviser)
 
 
 
@@ -79,4 +82,15 @@
    ### About Us Page Preview:
    ![About Us](https://user-images.githubusercontent.com/110983334/210652344-aa4a9f10-5ead-467d-9082-a3ec3a2a5df8.png)
 
-
+## Technologies Used:
+- React.js.
+- MongoDB.
+- Express.
+## Done by:
+- Jamal Harb.
+- Haneen Saymeh.
+- Layth Albarq.
+- Amin Hotari.
+## Superviser:
+- Amin Eid.
+- Fatima Harahsheh.
