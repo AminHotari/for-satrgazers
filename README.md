@@ -60,7 +60,7 @@
 ## Event Form Page:
 * Features:
      *  Event Form Page have a navigation bar contains a route to (Home), (Event Page), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
-     *  Event Form Page contains .
+     *  Event Form Page contains form to create event, in future data.
    ### Event Form Page Preview:
    ![Event Form](https://user-images.githubusercontent.com/110983334/210659574-c2f3fd88-1751-4d6c-8560-5ad2da4a7a42.png)
 ## Nasa Api Page:
