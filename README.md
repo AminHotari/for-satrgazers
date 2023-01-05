@@ -6,7 +6,7 @@
 * [Home Page](#home-page)
 * [Login and Registration](#login-and-registration)
 * [User Form Page](#user-form-page)
-* [Dashboard Page](#dashboard-page)
+* [ Page](#-page)
 * [Explore Page](#explore-page)
 * [Event Form Page](#event-form-page)
 * [Nasa Api Page](#nasa-api-page)
@@ -47,11 +47,11 @@
      *  User Form Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
      *  User Form Page contains .
    ### User Form Page Preview:
-## Dashboard Page:
+##  Page:
 * Features:
-     *  Dashboard Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
-     *  Dashboard Page contains .
-   ### Dashboard Page Preview:
+     *   Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
+     *   Page contains .
+   ###  Page Preview:
 ## Explore Page:
 * Features:
      *  Explore Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
