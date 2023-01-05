@@ -81,8 +81,7 @@
      *  About Us Page have a navigation bar contains a route to (Home), (Event Page), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
      *  About Us Page contains summary about our website.
    ### About Us Page Preview:
-   ![About Us](https://user-images.githubusercontent.com/110983334/210652344-aa4a9f10-5ead-467d-9082-a3ec3a2a5df8.png)
-
+   ![about us](https://user-images.githubusercontent.com/110983334/210721228-ee59e4af-5b13-43b3-acd7-af5c59e6825e.png)
 ## Technologies Used:
    ![mernjpg](https://user-images.githubusercontent.com/110983334/210658109-4acdd6c5-60ba-479c-85ae-79fe9042070d.jpg)
    ![material-ui](https://user-images.githubusercontent.com/110983334/210716024-bb5faaf3-1d8b-4a98-8bdb-3e629d93dbec.png)
