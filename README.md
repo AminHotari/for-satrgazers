@@ -85,6 +85,8 @@
 
 ## Technologies Used:
    ![mernjpg](https://user-images.githubusercontent.com/110983334/210658109-4acdd6c5-60ba-479c-85ae-79fe9042070d.jpg)
+   ![material-ui](https://user-images.githubusercontent.com/110983334/210716024-bb5faaf3-1d8b-4a98-8bdb-3e629d93dbec.png)
+   ![socket io](https://user-images.githubusercontent.com/110983334/210716027-3d13985a-9d93-414a-8ceb-a81e0575200d.png)
 - MongoDB.      - Express      - React.js     - Node.js
 - Material UI.
 - Socket.io.
