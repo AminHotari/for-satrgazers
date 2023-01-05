@@ -94,7 +94,7 @@
 ## Done by:
 - Jamal Harb.
 - Haneen Saymeh.
-- Layth Albarq.
+- Laith Albarq.
 - Amin Hotari.
 ## Superviser:
 - Amin Eid.
