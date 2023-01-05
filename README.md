@@ -27,7 +27,7 @@
 * Features:
      *  Home Page have a navigation bar contains a route to (Home), (Event Page), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
      *  Home Page contains buttons to fast access Explore, Nasa Api, and Chat Page.
-   ### Main Page Preview:
+   ### Home Page Preview:
    ![Home Page](https://user-images.githubusercontent.com/110983334/210646490-5a1a5510-70a8-40f5-8f10-fdf79e727c39.png)
 ## Login and Registration:
 * Features
