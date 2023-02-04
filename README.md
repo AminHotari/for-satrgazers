@@ -56,7 +56,7 @@
      *  If user need to create a new event just click on Create Event button.
    ### User Profile Page Preview:
    ![user profile](https://user-images.githubusercontent.com/110983334/216777776-6787aad2-636f-4e32-9659-c7e4a1af24f2.png)
-   ![profile page](https://user-images.githubusercontent.com/110983334/216780456-a007a6ad-4524-4a9e-a308-472da7b7b7df.png)
+   ![profile page](https://user-images.githubusercontent.com/110983334/216780680-d0b9301a-a468-41bd-9661-6e19accf70f7.png)
 ## Search Events Page:
 * Features:
      *  Search Events Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (My Profile), and(Logout).
