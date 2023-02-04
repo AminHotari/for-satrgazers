@@ -86,7 +86,7 @@
      *  Chat Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (My Profile), and(Logout).
      *  Chat Page contains a chat feature between all users.
    ### Chat Page Preview:
-   ![Chat Page](https://user-images.githubusercontent.com/110983334/210652331-ea658abd-644b-4fb1-8be3-aa79d81a81ad.png)
+   ![chat](https://user-images.githubusercontent.com/110983334/216780183-d1167457-a59e-458c-bb16-06bc993d0c61.png)
 ## About Us Page:
 * Features:
      *  About Us Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (My Profile), and(Logout).
