@@ -42,6 +42,8 @@
     *	User is only able to login with a valid password and email.
     *	User should be saved in session when registered successfully.
   ### Login/Register Preview
+  ![Sign in](https://user-images.githubusercontent.com/110983334/216768396-e9f5e130-b52e-49ce-ac02-61ee9c9c427c.png)
+  ![Sign up](https://user-images.githubusercontent.com/110983334/216768403-c44f41b1-ccfe-4519-81f1-da5571a80049.png)
 ## User Form Page:
 * Features:
      *  User Form Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
