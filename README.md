@@ -6,6 +6,7 @@
 * [Home Page](#home-page)
 * [Login and Registration](#login-and-registration)
 * [User Profile Page](#user-profile-page)
+* [Edit-Delete Page](#edit-delete-page)
 * [Search Events Page](#search-events-page)
 * [Explore Page](#explore-page)
 * [Event Form Page](#event-form-page)
@@ -52,17 +53,26 @@
 ## User Profile Page:
 * Features:
      *  User Profile Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (My Profile), and(Logout).
-     *  User Profile Page contains, user events who created befor.
+     *  User Profile Page contains, user events who created before.
      *  If user need to create a new event just click on Create Event button.
+     *  Once user who create the event want to edit or delete event, just click on event name to send him to edit-delete page.
    ### User Profile Page Preview:
    ![user profile](https://user-images.githubusercontent.com/110983334/216777776-6787aad2-636f-4e32-9659-c7e4a1af24f2.png)
    ![profile page](https://user-images.githubusercontent.com/110983334/216780680-d0b9301a-a468-41bd-9661-6e19accf70f7.png)
+## Edit-Delete Page:
+* Features:
+     *  Edit-Delete Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (My Profile), and(Logout).
+     *  Edit-Delete Page contains, event details, edit button, and delete button.
+     *  If user need to edit event just click on Edit button, then send him to edit form, after make changes just click on Update button.
+     *  Once user want to delete event just click on Delete button.
+   ### Edit-Delete Page Preview:
 ## Search Events Page:
 * Features:
      *  Search Events Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (My Profile), and(Logout).
      *  Search Events Page contains all avilable events .
    ### Search Events Page Preview:
    ![search event](https://user-images.githubusercontent.com/110983334/216779177-1718213d-e226-44f9-a71c-d2a2c6815dd3.png)
+   ![search](https://user-images.githubusercontent.com/110983334/216780964-28f4bee7-46ca-48bd-9a7b-0bb27fc4cfa3.png)
 ## Explore Page:
 * Features:
      *  Explore Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (My Profile), and(Logout).
