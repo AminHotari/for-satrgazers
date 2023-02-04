@@ -51,43 +51,45 @@
   ![Sign up](https://user-images.githubusercontent.com/110983334/216768403-c44f41b1-ccfe-4519-81f1-da5571a80049.png)
 ## User Profile Page:
 * Features:
-     *  User Form Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
-     *  User Form Page contains .
+     *  User Profile Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (My Profile), and(Logout).
+     *  User Profile Page contains, user events who created befor.
+     *  If user need to create a new event just click on Create Event button.
    ### User Profile Page Preview:
    ![user profile](https://user-images.githubusercontent.com/110983334/216777776-6787aad2-636f-4e32-9659-c7e4a1af24f2.png)
 ## Search Events Page:
 * Features:
-     *   Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
-     *   Page contains .
+     *  Search Events Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (My Profile), and(Logout).
+     *  Search Events Page contains all avilable events .
    ### Search Events Page Preview:
+   ![search event](https://user-images.githubusercontent.com/110983334/216779177-1718213d-e226-44f9-a71c-d2a2c6815dd3.png)
 ## Explore Page:
 * Features:
-     *  Explore Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
+     *  Explore Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (My Profile), and(Logout).
      *  Explore Page contains all available events .
    ### Explore Page Preview:
    ![explore](https://user-images.githubusercontent.com/110983334/210724097-0cc0b42d-fa16-4a36-a482-02e235cda6f9.png)
 ## Event Form Page:
 * Features:
-     *  Event Form Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
+     *  Event Form Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (My Profile), and(Logout).
      *  Event Form Page contains form to create event, in future data.
    ### Event Form Page Preview:
    ![Event Form](https://user-images.githubusercontent.com/110983334/210659574-c2f3fd88-1751-4d6c-8560-5ad2da4a7a42.png)
 ## Nasa Api Page:
 * Features:
-     *  Nasa Api Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
+     *  Nasa Api Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (My Profile), and(Logout).
      *  Nasa Api Page contains search for any data in the past will show you some thing on that date about space.
    ### Nasa Api Page Preview:
    ![Nasa Api](https://user-images.githubusercontent.com/110983334/210651604-4b11a3b7-41fc-46f6-84a3-0beab61cc529.png)
    ![Nasa Api](https://user-images.githubusercontent.com/110983334/210651619-0b621ef9-752f-4b15-a794-027584120245.gif)
 ## Chat Page:
 * Features:
-     *  Chat Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
+     *  Chat Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (My Profile), and(Logout).
      *  Chat Page contains a chat feature between all users.
    ### Chat Page Preview:
    ![Chat Page](https://user-images.githubusercontent.com/110983334/210652331-ea658abd-644b-4fb1-8be3-aa79d81a81ad.png)
 ## About Us Page:
 * Features:
-     *  About Us Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
+     *  About Us Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (My Profile), and(Logout).
      *  About Us Page contains summary about our website.
    ### About Us Page Preview:
    ![about us](https://user-images.githubusercontent.com/110983334/210721228-ee59e4af-5b13-43b3-acd7-af5c59e6825e.png)
