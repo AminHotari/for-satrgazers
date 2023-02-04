@@ -66,6 +66,8 @@
      *  If user need to edit event just click on Edit button, then send him to edit form, after make changes just click on Update button.
      *  Once user want to delete event just click on Delete button.
    ### Edit-Delete Page Preview:
+   ![edit ](https://user-images.githubusercontent.com/110983334/216782024-7725d29b-a881-48b9-953a-5449fc7f40ae.png)
+   ![edit-1](https://user-images.githubusercontent.com/110983334/216782028-a071e00e-4767-4c27-836a-af516b850d31.png)
 ## Search Events Page:
 * Features:
      *  Search Events Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (My Profile), and(Logout).
