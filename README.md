@@ -68,7 +68,7 @@
      *  Explore Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (My Profile), and(Logout).
      *  Explore Page contains all available events .
    ### Explore Page Preview:
-   ![explore](https://user-images.githubusercontent.com/110983334/210724097-0cc0b42d-fa16-4a36-a482-02e235cda6f9.png)
+   ![explore](https://user-images.githubusercontent.com/110983334/216780795-54c7e21c-d81a-4901-a0f9-c9ebb586015a.png)
 ## Event Form Page:
 * Features:
      *  Event Form Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (My Profile), and(Logout).
