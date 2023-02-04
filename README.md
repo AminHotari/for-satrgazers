@@ -79,8 +79,8 @@
      *  Nasa Api Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (My Profile), and(Logout).
      *  Nasa Api Page contains search for any data in the past will show you some thing on that date about space.
    ### Nasa Api Page Preview:
-   ![Nasa Api](https://user-images.githubusercontent.com/110983334/210651604-4b11a3b7-41fc-46f6-84a3-0beab61cc529.png)
-   ![Nasa Api](https://user-images.githubusercontent.com/110983334/210651619-0b621ef9-752f-4b15-a794-027584120245.gif)
+   ![nasa api](https://user-images.githubusercontent.com/110983334/216779978-d6d96e49-8c06-4339-9f66-132fc89e5079.png)
+   ![nasa api 1](https://user-images.githubusercontent.com/110983334/216779981-21fb8c11-f539-4766-b4f4-f16be778df9f.png)
 ## Chat Page:
 * Features:
      *  Chat Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (My Profile), and(Logout).
