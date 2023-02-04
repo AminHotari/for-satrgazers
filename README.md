@@ -5,8 +5,8 @@
 * [Abstract](#abstract)
 * [Home Page](#home-page)
 * [Login and Registration](#login-and-registration)
-* [User Form Page](#user-form-page)
-* [ Page](#-page)
+* [User Profile Page](#user-profile-page)
+* [Search Events Page](#search-events-page)
 * [Explore Page](#explore-page)
 * [Event Form Page](#event-form-page)
 * [Nasa Api Page](#nasa-api-page)
@@ -27,6 +27,11 @@
 * Features:
      *  Home Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (My Profile), and(Logout).
      *  Home Page contains buttons to fast access Explore, Nasa Api, and Chat Page.
+     *  Users are able to see the avilable events in website ,if they press on Search Events on top of the navigation bar.
+     *  Once users click on Chat Page on top of the navigation bar, go to the chat page.
+     *  When users click on About Us on top of the navigation bar, navigate to About Us Page.
+     *  If user click on My Profile on top of the navigation bar, navigate to user profile page.
+     *  Logout redirect to sign in page. 
    ### Home Page Preview:
    ![Home page](https://user-images.githubusercontent.com/110983334/216769699-096a30be-730b-4bfa-bf03-e652325c7229.png)
 ## Login and Registration:
@@ -44,16 +49,17 @@
   ### Login/Register Preview
   ![Sign in](https://user-images.githubusercontent.com/110983334/216768396-e9f5e130-b52e-49ce-ac02-61ee9c9c427c.png)
   ![Sign up](https://user-images.githubusercontent.com/110983334/216768403-c44f41b1-ccfe-4519-81f1-da5571a80049.png)
-## User Form Page:
+## User Profile Page:
 * Features:
      *  User Form Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
      *  User Form Page contains .
-   ### User Form Page Preview:
-##  Page:
+   ### User Profile Page Preview:
+   ![user profile](https://user-images.githubusercontent.com/110983334/216777776-6787aad2-636f-4e32-9659-c7e4a1af24f2.png)
+## Search Events Page:
 * Features:
      *   Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
      *   Page contains .
-   ###  Page Preview:
+   ### Search Events Page Preview:
 ## Explore Page:
 * Features:
      *  Explore Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (Nasa Api), and(Login/Logout).
