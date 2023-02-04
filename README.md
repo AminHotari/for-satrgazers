@@ -105,7 +105,7 @@
      *  About Us Page have a navigation bar contains a route to (Home), (Search Events), (Chat Page), (About Us), (My Profile), and(Logout).
      *  About Us Page contains summary about our website.
    ### About Us Page Preview:
-   ![about us](https://user-images.githubusercontent.com/110983334/210721228-ee59e4af-5b13-43b3-acd7-af5c59e6825e.png)
+   ![aboutus](https://user-images.githubusercontent.com/110983334/216782736-619348d6-b2bf-4e16-ad15-d3c1d70757c7.png)
 ## Technologies Used:
    ![mernjpg](https://user-images.githubusercontent.com/110983334/210658109-4acdd6c5-60ba-479c-85ae-79fe9042070d.jpg)
    ![material-ui](https://user-images.githubusercontent.com/110983334/210716024-bb5faaf3-1d8b-4a98-8bdb-3e629d93dbec.png)
